@@ -1,0 +1,6 @@
+@StockNotificator_HostAddress = http://localhost:5117
+
+GET {{StockNotificator_HostAddress}}/
+Accept: application/json
+
+###
